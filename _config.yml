@@ -2,15 +2,12 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://nghichcode.com"
+url: "https://nghichcode.com/beautiful-jekyll"
 baseurl: "/beautiful-jekyll"
-
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 title: My website
@@ -237,6 +234,3 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
