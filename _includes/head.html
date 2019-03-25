@@ -11,6 +11,12 @@
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
 
+  {% sif site.shortcut %}
+  <link rel="icon" href="{{ site.url }}{{ site.shortcut }}">
+  <link href="{{ site.url }}{{ site.shortcut }}" rel="shortcut icon" sizes="196x196">
+  <meta property="og:image" content="" />
+  {% endif %}
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
   {% include gtag.html %}
