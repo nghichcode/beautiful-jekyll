@@ -12,7 +12,7 @@ navbar-links:
     - GitHub Pages: "https://pages.github.com/"
   Others: "http://tincya.com"
 
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.jpg"
 
 navbar-col: "#ffaa22"
 navbar-text-col: "#404040"
@@ -41,7 +41,7 @@ share-links-active:
   facebook: true
   linkedin: true
 
-url-pretty: "https://nghichcode.com/beautiful-jekyll"
+url-pretty: "NghichCode"
 
 excerpt_length: 50
 
