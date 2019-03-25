@@ -1,6 +1,7 @@
 url: "https://nghichcode.com/beautiful-jekyll"
 baseurl: "/beautiful-jekyll"
 
+logo: /img/avatar-icon.jpg
 title: Nghịch Code
 description: Code một cách tốt hơn!
 
@@ -15,13 +16,13 @@ navbar-links:
 avatar: "/img/avatar-icon.jpg"
 
 navbar-col: "#FF9966"
-navbar-text-col: "#404040"
+navbar-text-col: "#f5f5f5"
 navbar-children-col: "#FF9966"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#FF9966"
-footer-text-col: "#777777"
+footer-text-col: "#ff2a2a"
 footer-link-col: "#404040"
 
 author:
