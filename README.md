@@ -1,1 +1,2 @@
-#NghichCode By jk
+#NghichCode
+J
