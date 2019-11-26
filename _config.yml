@@ -8,9 +8,8 @@ description: Code một cách tốt hơn!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Nghich Code: "http://nghichcode.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
   Others: "http://tincya.com"
 
 shortcut: "/img/shortcut.png"

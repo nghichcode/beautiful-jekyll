@@ -1,3 +1,3 @@
-#NghichCode
+# NghichCode
 
 Jekyll theme, Ruby Server.
